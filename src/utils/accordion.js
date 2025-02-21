@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck />,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "Our real estate app ensures you get the best interest rates on the market, helping you secure affordable home loans with the most competitive financing options available.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "offering real-time market insights and price tracking to protect you from sudden fluctuations and ensure informed decision-making.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "With our best price on the market feature, you can discover top property deals through AI-driven analysis, ensuring you get the most value for your investment.",
   },
 ];
 export default data;
